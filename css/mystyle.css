@@ -1,0 +1,30 @@
+/* Elementos del Header */
+.my-nav-li a {
+    color: whitesmoke
+}
+.my-nav-li a:hover {
+    color: brown
+}
+
+
+.my-btn-outline-brown {
+    color:brown;
+    border-color:brown
+}
+.my-btn-outline-brown:hover {
+    color:whitesmoke;
+    background-color:brown;
+    border-color:brown
+}
+
+
+/* Elementos del Main */
+
+
+/* Elementos del Footer */
+.my-footer-li a {
+    color: #7a7a7a
+}
+.my-footer-li a:hover {
+    color: brown
+}
