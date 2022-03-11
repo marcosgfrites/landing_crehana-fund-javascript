@@ -18,6 +18,18 @@
 }
 
 
+.my-btn-brown {
+    color:whitesmoke;
+    background-color:brown;
+    border-color:brown
+}
+.my-btn-brown:hover {
+    color:brown;
+    background-color:whitesmoke;
+    border-color:whitesmoke
+}
+
+
 /* Elementos del Main */
 
 
